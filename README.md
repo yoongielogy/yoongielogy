@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**yoongielogy/yoongielogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer in Australia. 
 
-Here are some ideas to get you started:
+My personal GitHub can be found here: [https://github.com/yoongkang](https://github.com/yoongkang)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you look at my projects you'll find a lot of them are in Python, but I really consider myself technology-agnostic. I enjoy both frontend and backend work.
+
+Here's how to reach me:
+
+- [Twitter](https://twitter.com/yoongielogy)
+- [LinkedIn](https://www.linkedin.com/in/yoong-kang-lim/)
+- [Personal website](https://yoongkang.com)
+
+I'm currently gainfully employed, but am always open to the right opportunity. Please contact me via one of the methods above.
